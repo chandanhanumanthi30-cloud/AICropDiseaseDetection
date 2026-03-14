@@ -1,0 +1,7 @@
+env/
+venv/
+__pychace__/
+*.pyc
+.env
+node_modules/
+.git/
